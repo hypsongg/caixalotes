@@ -102,7 +102,7 @@
         <h1>Você tem mais de 18 anos?</h1>
         <div class="botoes w-100 d-flex justify-content-center align-items-center">
             <a href="./1/"><button>SIM</button></a>
-            <a href="./1/"><button class="btn-nao">NÃO</button></a>
+            <a href="./1/"><button class="btn-nao">NAO</button></a>
         </div>
     </div>
 
